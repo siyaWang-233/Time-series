@@ -1,5 +1,6 @@
 # Time-series
  Research on Short-term Forecast Method of Railway Passenger Traffic Volume/ ARIMA model
+
 时间序列模型——基于SARIMA的铁路客运量预测
 建模步骤如下：
 平稳性检验——不平稳处理
